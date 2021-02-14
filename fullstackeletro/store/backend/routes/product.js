@@ -29,12 +29,7 @@ Router.get("/order", (req, res) => {
   );
 });
 
-Router.post("/register-feedback", async (req, res) => {
-  const { nome, msg } = req.body;
-  res.json(await feedback.create({ email, text }));
-});
-
-Router.get("/get-feedback", async (req, res) => {
+Router.get("/feedback", async (req, res) => {
   res.json(await feedback.find());
 });
 

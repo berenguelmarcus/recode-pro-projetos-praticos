@@ -18,7 +18,7 @@ const ShowCase = () => {
               <img
                 id="productImg"
                 className="img-box rounded mx-auto d-block p-2"
-                src={'./', element.product_img}
+                src={("./", element.product_img)}
               />
               <div className="card-body">
                 <p className="card-text">{element.product_name}</p>

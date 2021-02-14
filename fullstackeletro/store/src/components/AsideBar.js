@@ -12,19 +12,19 @@ function AsideBar() {
           Todos (12){" "}
         </a>
         <a href="#" className="list-group-item list-group-item-action">
-          Geladeiras (3)
+          Prancha (3)
         </a>
         <a href="#" className="list-group-item list-group-item-action">
-          Fogões (2){" "}
+          Funboard (2){" "}
         </a>
         <a href="#" className="list-group-item list-group-item-action">
-          Micro-ondas (3)
+          Leash (3)
         </a>
         <a href="#" className="list-group-item list-group-item-action">
-          Lavadora de Roupas (2){" "}
+          Parafina (2){" "}
         </a>
         <a href="#" className="list-group-item list-group-item-action">
-          Lavadora de Louças (2){" "}
+          Deck (2){" "}
         </a>
       </div>
     </div>

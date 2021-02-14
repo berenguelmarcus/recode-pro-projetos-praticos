@@ -33,7 +33,7 @@ function AdressCard() {
               <img src={loc} style={{ width: 120 }}></img>
               <h5 class="card-title text-dark mt-3">Recife - PE</h5>
               <p class="card-text text-dark mt-4">
-                  Av. Boa Viagem, 780, Boa Viagem
+                Av. Boa Viagem, 780, Boa Viagem
               </p>
             </div>
           </div>
